@@ -7,6 +7,4 @@ export default defineConfig({
      tailwindcss(),
     react()
   ],
-
-  base: Process.env.VITE_BASE_PATH || "/anding-page"
 })
