@@ -8,5 +8,5 @@ export default defineConfig({
     react()
   ],
 
-  base: Process.env.VITE_BASE_PATH || "/anding-page"
+  base: Process.env.VITE_BASE_PATH 
 })
